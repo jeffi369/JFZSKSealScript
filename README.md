@@ -18,9 +18,9 @@ This font aims to preserve the elegance and structure of the Zhongshan Wang Seal
 
 ## 🎨 Picture show
  <div align="center">
-  <img src="images/充实之谓美.png" width="400" alt="Preview 1"/>
-  <img src="images/宁溺于渊不溺于人.png" width="400" alt="Preview 2"/>
-  <img src="images/美人之美.png" width="400" alt="Preview 2"/>
+  <img src="images/充实之谓美.png" width="300" alt="Preview 1"/>
+  <img src="images/宁溺于渊不溺于人.png" width="300" alt="Preview 2"/>
+  <img src="images/美人之美.png" width="300" alt="Preview 3"/>
 </div>
 
 ---
