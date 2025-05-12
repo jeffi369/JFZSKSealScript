@@ -18,7 +18,7 @@ This font aims to preserve the elegance and structure of the Zhongshan Wang Seal
 
 ## 📥 Download
 
-You can download the latest version of this font from the [Releases page](https://github.com/jeffi369/JFZSKSealScript/releases ).
+You can download the latest version of this font from the [Releases page](https://github.com/jeffi369/JFZSKSealScript/ ).
 
 ---
 
