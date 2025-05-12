@@ -32,7 +32,7 @@
 
 ## 📦 下载
 
-你可以在 [Releases 页面](https://github.com/jeffi369/JFZSKSealScript/releases ) 下载最新版本的字体文件。
+你可以在 [Releases 页面](https://github.com/jeffi369/JFZSKSealScript ) 下载最新版本的字体文件。
 
 ---
 
