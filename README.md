@@ -22,6 +22,26 @@ You can download the latest version of this font from the [Releases page](https:
 
 ---
 
+## 💖 Acknowledgements
+
+This project would not have been possible without the constant support and understanding of my family. Their patience and encouragement gave me the strength to pursue this creative endeavor. Many thanks to Esther, Jason, Macy & My mon.
+
+---
+
+## 🔗 Related Resources
+• "Wang Zhuo's Zhongshan King Seal Script Thousand Character Classic", by Wang Zhuo, Guangxi Fine Arts Publishing House
+• "Inscriptions and Images of the Three Bronzes from Zhongshan State", by Hao Jianwen, Cultural Relics Publishing House
+• "Zhongshan Seal Script: A Large Character Dictionary for Calligraphy", by Zhang Jingzhi, Beijing Institute of Technology Press
+• "Comprehensive Dictionary of Chinese Etymology: New Edition", China Overseas Chinese Publishing House
+• Baidu Search
+• GitHub
+• DeepSeek
+• Qwen.ai
+• FontForge– Font editing tool
+• Inkscape– Vector graphics and font editing tool
+
+---
+
 ## 💬 License
 
 This font is licensed under the **SIL Open Font License 1.1**. You are free to:
@@ -29,4 +49,4 @@ This font is licensed under the **SIL Open Font License 1.1**. You are free to:
 - Modify and redistribute it, as long as you credit the original author
 
 > Copyright (c) 2025 Jingfeng Liu (刘敬峰)  
-> Project Page: https://github.com/jeffi369/JFZSKSealScript 
+> Project Page: https://github.com/jeffi369/JFZSKSealScript
