@@ -73,3 +73,4 @@ This project would not have been possible without the constant support and under
 - Qwen.ai
 - FontForge  字库编辑工具
 - Inkscape    矢量字体编辑工具
+- https://3d.hebeimuseum.org.cn/sanweiList/zhanguoList/index.html 河北博物院 3d 数字展品
