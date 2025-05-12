@@ -30,6 +30,15 @@
 
 ---
 
+## 🎨 Picture show
+ <div align="center">
+  <img src="images/和实生物.png" width="300" alt="Preview 1"/>
+  <img src="images/宁溺于渊不溺于人.png" width="300" alt="Preview 2"/>
+  <img src="images/美人之美.png" width="300" alt="Preview 3"/>
+</div>
+
+---
+
 ## 📦 下载
 
 你可以在 [Releases 页面](https://github.com/jeffi369/JFZSKSealScript ) 下载最新版本的字体文件。
