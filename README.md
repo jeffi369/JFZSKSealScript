@@ -39,6 +39,7 @@ This project would not have been possible without the constant support and under
 • Qwen.ai
 • FontForge– Font editing tool
 • Inkscape– Vector graphics and font editing tool
+• https://3d.hebeimuseum.org.cn/sanweiList/zhanguoList/index.html
 
 ---
 
