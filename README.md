@@ -4,13 +4,21 @@ A digital typeface inspired by the ancient seal script inscriptions on the **Thr
 
 This font aims to preserve the elegance and structure of the Zhongshan Wang Seal Script while expanding its character set for modern use in design, education, and cultural promotion.
 
+## JFZSKSealScript v2.0 The font is officially released.
+
+-The font library has been upgraded to 2,327 characters, approximately 2,300 single characters in the Zhongshan King Seal Script. 
+-The content covers "The Silk Manuscript Version of Tao Te Ching" and "Ancient Poems Required to be Memorized in Primary Schools of the People's Education Press". --Each new character basically bears the traces of the original inscriptions, just like adding some old brine when boiling new brine, so that the ancient charm of the Zhongshan King Seal Script can be continuously inherited.
+
+Some typos in the first edition have been corrected.
+
+The font structure is more rigorous.
 ---
 
 ## 🎨 Features
 
 - Based on Warring States period bronze inscriptions
 - Includes representative characters from the Three Bronzes
-- Expanded to cover over **1,600 characters** from the *Boshu Version of the Dao De Jing*
+- Expanded to cover over **2,300 characters** from the *Boshu Version of the Dao De Jing*
 - Designed with historical accuracy and modern legibility in mind
 - Released under the [SIL Open Font License 1.1](LICENSE)
 
