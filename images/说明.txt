@@ -1,0 +1,41 @@
+字体名称：敬峰中山王篆V2.0版
+
+字库升级至 2327个字符，大约2300个中山王篆单字，内容覆盖《道德经帛书版》、《人教版小学必背古诗》。每个新字基本都有原铭文的痕迹，就像煮新卤水要加点老卤水一样，让中山王篆的古韵不断传承。
+
+修正第一版的部分错别字。
+
+字体结构更加严谨。
+
+
+
+
+
+字体基于在中山王篆基本字体，甲骨文及金文
+
+
+###字体版权
+
+Copyright (c) 2025 Jingfeng Liu (shenzhen) ,  All rights reserved.
+GitHub: https://github.com/jeffi369/JFZSKSealScript 
+email: jeffliu667@gmail.com
+
+### 许可证
+
+本字体采用 [SIL Open Font License 1.1](LICENSE) 授权。
+
+
+###字体安装说明
+
+首先在github， 网址https://github.com/jeffi369/JFZSKSealScript
+下载敬峰中山王篆字体文件，解压后复制JFZSKSealScript_V2.0.ttf 文件
+粘贴到windows的字体库里，C:\Windows\Fonts
+然后就能在文档编辑软件或ps里选择大学论语敬峰中山王篆的字体来使用了。
+
+
+
+JFZSKSealScript v2.0 Latest
+
+JFZSKSealScript v2.0
+敬峰中山王篆2.0 字体正式发布
+
+Full Changelog: https://github.com/jeffi369/JFZSKSealScript/commits/v1.0
