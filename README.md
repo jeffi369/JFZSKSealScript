@@ -4,6 +4,9 @@ A digital typeface inspired by the ancient seal script inscriptions on the **Thr
 
 This font aims to preserve the elegance and structure of the Zhongshan Wang Seal Script while expanding its character set for modern use in design, education, and cultural promotion.
 
+## JFZSKSealScript v2.5 The font is officially released. Oct. 26, 2025
+JFZSKSealScript has been upgraded to version 2.5, which now includes 2,700 Chinese vocabulary entries.
+
 ## JFZSKSealScript v2.0 The font is officially released.
 
 -The font library has been upgraded to 2,327 characters, approximately 2,300 single characters in the Zhongshan King Seal Script. 
